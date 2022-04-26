@@ -7,6 +7,7 @@ $c = " niet.";
 
 echo
 "Mens".$b.$a."mak".$b.", "."werk".$b.$c."<br>";
-link("text.txt","-Albert Plesman (KLM)");
+echo
+$link= "-Albert Plesman (KLM)";
 
 ?>

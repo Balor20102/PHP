@@ -7,7 +7,7 @@ $c = " niet.";
 
 echo
 "Mens".$b.$a."mak".$b.", "."werk".$b.$c."<br>";
-echo
-$link= "-Albert Plesman (KLM)";
+
+echo '<a href=\"https://www.ikgastarten.nl/bedrijf-starten/de-start-van-klm"> -Albert Plesman (KLM)</a>'; 
 
 ?>
